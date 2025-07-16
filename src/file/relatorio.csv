@@ -1,0 +1,39 @@
+====== RELATÓRIO GERAL DA INDÚSTRIA ======
+
+🔹 Funcionários do Setor 1:
+   {"idFuncionario":1,"nome":"Ana Costa","cargo":"Operadora","setor":null}
+   {"idFuncionario":6,"nome":"Felipe Torres","cargo":"Supervisor","setor":null}
+   {"idFuncionario":11,"nome":"Karen Martins","cargo":"Operadora","setor":null}
+   {"idFuncionario":16,"nome":"Paulo Gonçalves","cargo":"Soldador","setor":null}
+
+🔹 Produções em 2025-06-20:
+   {"idProducao":20,"produto":"null","funcionario":"null","dataProducao":"null","quantidade":75}
+
+🔹 Produtos produzidos pelo Funcionário ID 1:
+
+🔹 Funcionários, Setores e Produções:
+   Ana Costa | Produção | 100 unidades em 2025-06-01
+   Felipe Torres | Produção | 30 unidades em 2025-06-06
+   Karen Martins | Produção | 40 unidades em 2025-06-11
+   Paulo Gonçalves | Produção | 110 unidades em 2025-06-16
+   Bruno Lima | Manutenção | 80 unidades em 2025-06-02
+   Gabriela Dias | Manutenção | 200 unidades em 2025-06-07
+   Leonardo Costa | Manutenção | 70 unidades em 2025-06-12
+   Quésia Alves | Manutenção | 60 unidades em 2025-06-17
+   Carla Mendes | Qualidade | 150 unidades em 2025-06-03
+   Henrique Silva | Qualidade | 90 unidades em 2025-06-08
+   Marina Ribeiro | Qualidade | 130 unidades em 2025-06-13
+   Rafael Pinto | Qualidade | 85 unidades em 2025-06-18
+   Diego Souza | Logística | 120 unidades em 2025-06-04
+   Isabela Nunes | Logística | 300 unidades em 2025-06-09
+   Nicolas Duarte | Logística | 55 unidades em 2025-06-14
+   Sabrina Lima | Logística | 45 unidades em 2025-06-19
+   Elaine Rocha | RH | 60 unidades em 2025-06-05
+   João Oliveira | RH | 50 unidades em 2025-06-10
+   Olívia Freitas | RH | 95 unidades em 2025-06-15
+   Tiago Costa | RH | 75 unidades em 2025-06-20
+
+🔹 Detalhes da produção em 2025-06-20:
+   Funcionário: Tiago Costa | Setor: RH | Quantidade: 75
+
+====== FIM DO RELATÓRIO ======
